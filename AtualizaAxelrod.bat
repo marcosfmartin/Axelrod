@@ -1,0 +1,1 @@
+cmd /k C:\Users\marco\AppData\Local\Programs\Python\Python39\python.exe "C:/Users/marco/Documents/PegaDados.py"
